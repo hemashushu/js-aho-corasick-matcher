@@ -1,5 +1,5 @@
 {
-    "name": "js-aho–corasick-matcher",
+    "name": "js-aho-corasick-matcher",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -9,13 +9,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/hemashushu/js-aho–corasick-matcher.git"
+        "url": "git+ssh://git@github.com/hemashushu/js-aho-corasick-matcher.git"
     },
     "author": "Hemashushu <hippospark@gmail.com>",
     "keywords":["aho-corasick"],
     "license": "MPL-2.0",
     "bugs": {
-        "url": "https://github.com/hemashushu/js-aho–corasick-matcher/issues"
+        "url": "https://github.com/hemashushu/js-aho-corasick-matcher/issues"
     },
-    "homepage": "https://github.com/hemashushu/js-aho–corasick-matcher#readme"
+    "homepage": "https://github.com/hemashushu/js-aho-corasick-matcher#readme"
 }
