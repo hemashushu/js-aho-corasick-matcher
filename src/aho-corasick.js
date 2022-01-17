@@ -8,9 +8,6 @@
 
 import { TrieTree } from './trie-tree.js';
 
-/**
- * AC 自动机字符串查找
- */
 class AhoCorasick {
 
     static find(testStr, keywordsStr) {
